@@ -52,10 +52,12 @@ footer {
 nav {
     margin-bottom: 20px;
     text-align: center;
+    background-color: aqua;
+    font-size: large;
 }
 
 nav a {
-    color: white;
+    color: rgb(0, 0, 0);
     margin: 0 15px;
     text-decoration: none;
 }
